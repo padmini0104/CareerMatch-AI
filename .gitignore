@@ -1,0 +1,24 @@
+# Java / Maven
+career-match-api/target/
+*.class
+
+# Node / React
+career-match-frontend/node_modules/
+career-match-frontend/dist/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploaded user resumes
+career-match-api/uploads/
